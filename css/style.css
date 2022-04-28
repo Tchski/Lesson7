@@ -1,0 +1,129 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation{
+    width: 581px;
+}
+.navul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.firsttext{
+    width: 600px;
+    height: 203px;
+    font-size: 78px;
+    margin-top: 285px;
+    margin-left: 132px;
+    margin-bottom: 42px;
+}
+.firstp{
+    width: 600px;
+    margin-left: 132px;
+    font-size: 22px;
+    margin-bottom: 153px;
+}
+.Wave{
+    background-color: blue;
+    width: 264px;
+    height: 77px;
+    border-radius: 50px;
+    display: flex;
+    font-size: 23px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 132px;
+}
+.wavehand{
+    width: 30px;
+    height: 30px;
+    margin-right: 24px;
+}
+.block2{
+    width: 801px;
+    height: 527px;
+    margin-top: 265px;
+    margin-left: 305px;
+}
+.section1{
+    display: flex;
+}    
+/* section 2 */
+.container{
+    width: 1169;
+    
+}
+.textblock{
+    text-align: center;
+    margin-bottom: 64px;
+    margin-top: 460px;
+}
+.block{
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.p{
+    font-size: 16px;
+    width: 328px;
+    text-align: center;
+    margin-top: 14px;
+    margin-bottom: 23px;
+    color: white;
+}
+.h2{
+    color: white;
+    margin-top: 57px;
+    font-size: 22px;
+}
+
+.first{
+    background-color: #FBBA77;
+    margin-right: 29px;
+}
+.second{
+    background-color: #41EAE3;
+    margin-right: 29px;
+}
+.third{
+    background-color: #69529F;
+}
+.for{
+    background-color: #4386D2;
+    margin-right: 29px;
+}
+.five{
+    background-color: #A5A2F6;
+    margin-right: 29px;
+}
+.six{
+    background-color: #FF8088;
+}
+.row1{
+    width: 1169;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row2{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inside{
+    width: 151px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #fff;
+}
